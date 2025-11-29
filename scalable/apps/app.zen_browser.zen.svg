@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="128" height="128" viewBox="0 0 128 128">
     <defs>
-        <linearGradient id="g">
+        <linearGradient id="d">
             <stop offset="0" style="stop-color:#f9f9f9;stop-opacity:0"/>
             <stop offset=".8" style="stop-color:#f9f9f9;stop-opacity:.60087615"/>
             <stop offset="1" style="stop-color:#fafafa;stop-opacity:.80000001"/>
@@ -23,11 +23,11 @@
             <stop offset=".918" style="stop-color:#979797;stop-opacity:1"/>
             <stop offset="1" style="stop-color:gray;stop-opacity:1"/>
         </linearGradient>
-        <linearGradient xlink:href="#a" id="h" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="translate(-1.582 -2.603)scale(1.02473)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="i" x1="64" x2="64" y1="112.5" y2="7.5" gradientTransform="translate(-1.582 -4.702)scale(1.02473)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#c" id="k" cx="64" cy="60" r="44.5" fx="64" fy="60" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#g" id="l" cx="64" cy="60" r="30.119" fx="64" fy="60" gradientTransform="translate(0 -1.044)" gradientUnits="userSpaceOnUse"/>
-        <filter id="j" width="1.32" height="1.487" x="-.16" y="-.16" style="color-interpolation-filters:sRGB">
+        <linearGradient xlink:href="#a" id="e" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="translate(-1.582 -2.603)scale(1.02473)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="f" x1="64" x2="64" y1="112.5" y2="7.5" gradientTransform="translate(-1.582 -4.702)scale(1.02473)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#c" id="h" cx="64" cy="60" r="44.5" fx="64" fy="60" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#d" id="i" cx="64" cy="60" r="30.119" fx="64" fy="60" gradientTransform="translate(0 -1.044)" gradientUnits="userSpaceOnUse"/>
+        <filter id="g" width="1.32" height="1.487" x="-.16" y="-.16" style="color-interpolation-filters:sRGB">
             <feFlood flood-color="#5c5c5c" flood-opacity=".302" result="flood"/>
             <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="2"/>
             <feOffset dy="5" in="blur" result="offset"/>
@@ -36,13 +36,13 @@
         </filter>
     </defs>
     <g transform="translate(0 2)">
-        <rect width="107.596" height="107.596" x="10.202" y="13.281" rx="17.42" ry="17.42" style="fill:url(#h);fill-opacity:1;stroke-width:1.02473"/>
-        <rect width="107.596" height="107.596" x="10.202" y="2.984" rx="17.42" ry="17.42" style="fill:url(#i);fill-opacity:1;stroke-width:1.02473"/>
+        <rect width="107.596" height="107.596" x="10.202" y="13.281" rx="17.42" ry="17.42" style="fill:url(#e);fill-opacity:1;stroke-width:1.02473"/>
+        <rect width="107.596" height="107.596" x="10.202" y="2.984" rx="17.42" ry="17.42" style="fill:url(#f);fill-opacity:1;stroke-width:1.02473"/>
         <rect width="104.864" height="104.864" x="11.568" y="4.35" rx="16.653" ry="16.653" style="fill:#333;fill-opacity:1;fill-rule:evenodd;stroke-width:.998713"/>
-        <g style="filter:url(#j)" transform="translate(3.207 -.049)scale(.94989)">
-            <circle cx="64" cy="60" r="44.5" style="fill:url(#k);stroke-width:.624247"/>
+        <g style="filter:url(#g)" transform="translate(3.207 -.049)scale(.94989)">
+            <circle cx="64" cy="60" r="44.5" style="fill:url(#h);stroke-width:.624247"/>
         </g>
-        <circle cx="64" cy="58.956" r="30.119" style="fill:url(#l);stroke-width:.422517;filter:url(#j)" transform="translate(3.252 1.353)scale(.9492)"/>
-        <circle cx="64" cy="58.956" r="14.978" style="fill:#f9f9f9;fill-opacity:.798658;stroke-width:.210113;filter:url(#j)" transform="translate(3.252 1.353)scale(.9492)"/>
+        <circle cx="64" cy="58.956" r="30.119" style="fill:url(#i);stroke-width:.422517;filter:url(#g)" transform="translate(3.252 1.353)scale(.9492)"/>
+        <circle cx="64" cy="58.956" r="14.978" style="fill:#f9f9f9;fill-opacity:.798658;stroke-width:.210113;filter:url(#g)" transform="translate(3.252 1.353)scale(.9492)"/>
     </g>
 </svg>

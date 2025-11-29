@@ -13,24 +13,24 @@
             <stop offset="1" style="stop-color:gray;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="d" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="translate(2.188 4.12)scale(.96581)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="f" x1="64" x2="64" y1="12.249" y2="100.61" gradientTransform="translate(-2.953 -2.343)scale(1.04614)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="e" x1="64" x2="64" y1="12.249" y2="100.61" gradientTransform="translate(-2.953 -2.343)scale(1.04614)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="c">
             <stop offset="0" style="stop-color:#fff;stop-opacity:.44655761"/>
             <stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
         </linearGradient>
-        <linearGradient xlink:href="#c" id="k" x1="-217.206" x2="-217.206" y1="-29.431" y2="-108.14" gradientUnits="userSpaceOnUse"/>
-        <clipPath id="h" clipPathUnits="userSpaceOnUse">
+        <linearGradient xlink:href="#c" id="j" x1="-217.206" x2="-217.206" y1="-29.431" y2="-108.14" gradientUnits="userSpaceOnUse"/>
+        <clipPath id="g" clipPathUnits="userSpaceOnUse">
             <circle cx="-217.206" cy="-68.785" r="39.355" style="fill:#fff" transform="scale(-1)"/>
         </clipPath>
-        <clipPath id="j" clipPathUnits="userSpaceOnUse"/>
-        <filter id="g" width="1.207" height="1.232" x="-.104" y="-.104" style="color-interpolation-filters:sRGB">
+        <clipPath id="i" clipPathUnits="userSpaceOnUse"/>
+        <filter id="f" width="1.207" height="1.232" x="-.104" y="-.104" style="color-interpolation-filters:sRGB">
             <feFlood flood-color="#000" flood-opacity=".345" result="flood"/>
             <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
             <feGaussianBlur in="composite1" result="blur" stdDeviation="4.125"/>
             <feOffset dy="2.355" result="offset"/>
             <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
         </filter>
-        <filter id="i" width="1.549" height="1.549" x="-.274" y="-.274" style="color-interpolation-filters:sRGB">
+        <filter id="h" width="1.549" height="1.549" x="-.274" y="-.274" style="color-interpolation-filters:sRGB">
             <feGaussianBlur result="blur" stdDeviation="9 9"/>
             <feColorMatrix result="colormatrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"/>
             <feComposite in="colormatrix" in2="SourceGraphic" operator="in"/>
@@ -39,12 +39,12 @@
     <rect width="101.41" height="101.41" x="13.295" y="19.09" rx="13.521" ry="13.521" style="fill:url(#d);fill-opacity:1;stroke-width:.965812"/>
     <rect width="101.41" height="101.41" x="13.295" y="7.5" rx="13.521" ry="13.521" style="fill:#ececec;fill-opacity:1;stroke-width:.965812"/>
     <rect width="95.468" height="95.468" x="16.266" y="10.471" rx="12.729" ry="12.729" style="fill:#353a43;fill-opacity:1;stroke-width:.909216"/>
-    <rect width="89.409" height="89.409" x="19.295" y="13.5" rx="11.921" ry="11.921" style="fill:url(#f);fill-opacity:1;stroke-width:.851517"/>
-    <path d="M28.996 10.47a12.704 12.704 0 0 0-12.73 12.731V93.21c0 7.052 5.678 12.73 12.73 12.73h70.008c7.052 0 12.73-5.678 12.73-12.73V23.201c0-7.052-5.678-12.73-12.73-12.73zm2.22 3.03h65.567a11.896 11.896 0 0 1 11.922 11.922v65.566a11.896 11.896 0 0 1-11.922 11.922H31.217a11.896 11.896 0 0 1-11.922-11.922V25.422A11.896 11.896 0 0 1 31.217 13.5" style="fill:#353a43;fill-opacity:1;stroke-width:.909216;filter:url(#g)"/>
+    <rect width="89.409" height="89.409" x="19.295" y="13.5" rx="11.921" ry="11.921" style="fill:url(#e);fill-opacity:1;stroke-width:.851517"/>
+    <path d="M28.996 10.47a12.704 12.704 0 0 0-12.73 12.731V93.21c0 7.052 5.678 12.73 12.73 12.73h70.008c7.052 0 12.73-5.678 12.73-12.73V23.201c0-7.052-5.678-12.73-12.73-12.73zm2.22 3.03h65.567a11.896 11.896 0 0 1 11.922 11.922v65.566a11.896 11.896 0 0 1-11.922 11.922H31.217a11.896 11.896 0 0 1-11.922-11.922V25.422A11.896 11.896 0 0 1 31.217 13.5" style="fill:#353a43;fill-opacity:1;stroke-width:.909216;filter:url(#f)"/>
     <path d="M98.42 62.117A34.42 34.42 0 0 1 64 96.537a34.42 34.42 0 0 1-34.42-34.42A34.42 34.42 0 0 1 64 27.697a34.42 34.42 0 0 1 34.42 34.42" style="opacity:.5;fill:#14141b;fill-opacity:1;stroke-width:.943818"/>
     <path d="M93.227 99.256a11.823 11.823 0 0 0 11.822-11.824 11.823 11.823 0 0 0-11.822-11.824H81.403v11.83a11.823 11.823 0 0 0 11.824 11.818" style="fill:#20222a;fill-opacity:1;stroke-width:.953796"/>
     <g transform="translate(8.31 -1.802)scale(.87238)">
-        <g clip-path="url(#h)" style="filter:url(#i)" transform="translate(-153.37)">
+        <g clip-path="url(#g)" style="filter:url(#h)" transform="translate(-153.37)">
             <circle cx="-217.206" cy="-68.785" r="39.355" style="fill:#fff" transform="scale(-1)"/>
             <path d="M217.207 88.734a15.72 15.72 0 0 0-15.72 15.721 16 16 0 0 0 .027.373 39.4 39.4 0 0 0 15.693 3.313 39.4 39.4 0 0 0 15.693-3.313 16 16 0 0 0 .028-.373 15.72 15.72 0 0 0-15.721-15.72" style="fill:#fc2f34;fill-opacity:1"/>
             <path d="M190.346-80.402a15.72 15.72 0 0 0-3.84 10.295 16 16 0 0 0 .083 1.171 39.35 39.35 0 0 0 31.276 0 16 16 0 0 0 .083-1.171 15.72 15.72 0 0 0-15.72-15.72 15.72 15.72 0 0 0-11.882 5.425" style="fill:#ff864e;fill-opacity:1" transform="rotate(45)"/>
@@ -55,8 +55,8 @@
             <path d="M-217.207-29.43a39.4 39.4 0 0 0 15.693-3.312 16 16 0 0 0 .028-.373 15.72 15.72 0 0 0-15.721-15.72 15.72 15.72 0 0 0-15.72 15.72 16 16 0 0 0 .01.4 39.4 39.4 0 0 0 15.71 3.285" style="fill:#38cd7b;fill-opacity:1" transform="scale(-1)"/>
             <path d="M-53.064 252.877a15.72 15.72 0 0 0-15.721-15.72 15.72 15.72 0 0 0-15.72 15.72 16 16 0 0 0 .026.371 39.4 39.4 0 0 0 15.694 3.313 39.4 39.4 0 0 0 15.71-3.284 16 16 0 0 0 .01-.4" style="fill:#2f81ff;fill-opacity:1" transform="rotate(-90)"/>
         </g>
-        <circle cx="-217.206" cy="-68.785" r="39.355" clip-path="url(#j)" style="fill:url(#k);filter:url(#i)" transform="rotate(180 -76.685 0)"/>
-        <g clip-path="url(#h)" style="filter:url(#i)" transform="translate(-146.458 2.189)scale(.96818)">
+        <circle cx="-217.206" cy="-68.785" r="39.355" clip-path="url(#i)" style="fill:url(#j);filter:url(#h)" transform="rotate(180 -76.685 0)"/>
+        <g clip-path="url(#g)" style="filter:url(#h)" transform="translate(-146.458 2.189)scale(.96818)">
             <circle cx="-217.206" cy="-68.785" r="39.355" style="fill:#fff" transform="scale(-1)"/>
             <path d="M217.207 88.734a15.72 15.72 0 0 0-15.72 15.721 16 16 0 0 0 .027.373 39.4 39.4 0 0 0 15.693 3.313 39.4 39.4 0 0 0 15.693-3.313 16 16 0 0 0 .028-.373 15.72 15.72 0 0 0-15.721-15.72" style="fill:#fc2f34;fill-opacity:1"/>
             <path d="M190.346-80.402a15.72 15.72 0 0 0-3.84 10.295 16 16 0 0 0 .083 1.171 39.35 39.35 0 0 0 31.276 0 16 16 0 0 0 .083-1.171 15.72 15.72 0 0 0-15.72-15.72 15.72 15.72 0 0 0-11.882 5.425" style="fill:#ff864e;fill-opacity:1" transform="rotate(45)"/>

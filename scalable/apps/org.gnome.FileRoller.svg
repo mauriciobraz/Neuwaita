@@ -22,7 +22,7 @@
         </linearGradient>
         <linearGradient xlink:href="#a" id="g" x1="11.5" x2="116.5" y1="79.516" y2="79.516" gradientTransform="matrix(1.05658 0 0 .95553 -3.621 6.728)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#b" id="f" x1="63.916" x2="63.916" y1="23.409" y2="42.128" gradientTransform="matrix(.79323 0 0 .94227 13.196 -1.196)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#c" id="o" x1="65.356" x2="65.356" y1="103.256" y2="25.253" gradientTransform="matrix(1.05658 0 0 1.02346 -3.621 -1.492)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="h" x1="65.356" x2="65.356" y1="103.256" y2="25.253" gradientTransform="matrix(1.05658 0 0 1.02346 -3.621 -1.492)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#d" id="e" x1="64" x2="64" y1="55.432" y2="66.25" gradientUnits="userSpaceOnUse"/>
     </defs>
     <path d="m8.53 60.126 8.711-8.712h93.492l8.738 8.738v26.81H8.529Z" style="fill:url(#e);fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round"/>
@@ -34,7 +34,7 @@
     <path d="M24.543 39.988c-5.306 0-9.578 3.698-9.578 8.291v30.87h98.07V53.89c0-4.256-4.272-7.683-9.578-7.683H54.183l-7.181-6.219z" style="fill:#629df6;fill-opacity:1;stroke-width:.0556903"/>
     <path d="M14.965 59.113V61.3h98.069v-1.44q0-.379-.051-.747z" style="fill:#000;fill-opacity:.146083;stroke-width:.783214"/>
     <path d="M24.542 39.99c-5.305 0-9.576 3.697-9.576 8.29v1.542c0-4.592 4.27-8.29 9.576-8.29h22.46l7.182 6.217h49.274c5.305 0 9.578 3.427 9.578 7.683v-1.543c0-4.256-4.273-7.683-9.578-7.683H54.184l-7.182-6.216z" style="fill:#fff;fill-opacity:.714176;stroke-width:.0556903"/>
-    <path d="M8.53 60.126v41.237c0 4.512 3.77 8.145 8.452 8.145h94.036c4.683 0 8.453-3.633 8.453-8.145V60.126Z" style="fill:url(#o);fill-opacity:1;stroke-width:.822203"/>
+    <path d="M8.53 60.126v41.237c0 4.512 3.77 8.145 8.452 8.145h94.036c4.683 0 8.453-3.633 8.453-8.145V60.126Z" style="fill:url(#h);fill-opacity:1;stroke-width:.822203"/>
     <path d="M64 73.043v-3.8" style="fill:#fff;fill-opacity:1;stroke-width:.215649"/>
     <path d="M8.53 60.126v2.239h110.94v-2.239Z" style="fill:#f3b9a6;fill-opacity:1;stroke-width:.798116"/>
     <path d="M52.573 60.207v30.412l5.406-5.777 4.665 5.777 4.697-5.77 4.254 5.77 3.832-5.469V60.207Z" style="fill:#fff;fill-opacity:.64971334;stroke:none;stroke-width:3.82922;stroke-linecap:round;stroke-opacity:.794613"/>

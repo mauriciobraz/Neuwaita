@@ -18,11 +18,11 @@
             <stop offset="0" style="stop-color:#e84a1f;stop-opacity:1"/>
             <stop offset="1" style="stop-color:#fcb149;stop-opacity:1"/>
         </linearGradient>
-        <linearGradient xlink:href="#c" id="h" x1="64" x2="64" y1="110.378" y2="9.622" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="f" x1="64" x2="64" y1="110.378" y2="9.622" gradientUnits="userSpaceOnUse"/>
     </defs>
     <rect width="105" height="105" x="11.5" y="15.5" rx="17" ry="17" style="fill:url(#d);fill-opacity:1"/>
     <rect width="105" height="105" x="11.5" y="7.5" rx="17" ry="17" style="fill:url(#e);fill-opacity:1"/>
-    <rect width="100.755" height="100.755" x="13.622" y="9.622" rx="16" ry="16" style="fill:url(#h);fill-opacity:1;stroke-width:.959575"/>
+    <rect width="100.755" height="100.755" x="13.622" y="9.622" rx="16" ry="16" style="fill:url(#f);fill-opacity:1;stroke-width:.959575"/>
     <path d="M49.688 48.88a2.65 2.65 0 0 0-2.657 2.657v58.84h12.907v-58.84a2.65 2.65 0 0 0-2.659-2.656zm36.322 7.585a2.65 2.65 0 0 0-2.656 2.656v51.256h12.904V59.12a2.65 2.65 0 0 0-2.656-2.656zM67.85 60.21a2.65 2.65 0 0 0-2.657 2.656v47.51h12.903v-47.51a2.65 2.65 0 0 0-2.657-2.656zm-36.325 8.656a2.65 2.65 0 0 0-2.656 2.656v38.817c.252.011.5.037.754.037h12.152V71.523a2.654 2.654 0 0 0-2.66-2.656zm73.036 7.906a2.65 2.65 0 0 0-2.657 2.657v30.549a15.956 15.956 0 0 0 12.473-15.602v-16.39a2.65 2.65 0 0 0-2.227-1.214zM13.623 79.84v14.537a15.97 15.97 0 0 0 9.772 14.752V82.496a2.65 2.65 0 0 0-2.657-2.656z" style="opacity:.35;mix-blend-mode:screen;fill:#fff;fill-opacity:.4016;fill-rule:evenodd;stroke:none;stroke-width:5.31324"/>
     <path d="M56.84 100.585q-6.088 0-10.423-4.335-4.336-4.336-4.336-10.424t4.336-10.423 10.423-4.336q2.122 0 3.92.508 1.8.507 3.46 1.522V34.17h22.138v14.759H71.6v36.897q0 6.088-4.335 10.424-4.336 4.335-10.424 4.335" style="fill:#b53d00;fill-opacity:1;stroke-width:.0922438"/>
     <path d="M56.84 99.383q-6.088 0-10.423-4.336-4.336-4.335-4.336-10.423T46.417 74.2t10.423-4.335q2.122 0 3.92.507 1.8.507 3.46 1.522V32.967h22.138v14.76H71.6v36.897q0 6.088-4.335 10.423-4.336 4.336-10.424 4.336" style="fill:#fffffe;fill-opacity:1;stroke-width:.0922438"/>

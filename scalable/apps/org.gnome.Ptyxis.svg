@@ -16,7 +16,7 @@
             <feOffset dy="5.792" result="offset"/>
             <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
         </filter>
-        <filter id="g" width="1.315" height="2.635" x="-.158" y="-.519" style="color-interpolation-filters:sRGB">
+        <filter id="d" width="1.315" height="2.635" x="-.158" y="-.519" style="color-interpolation-filters:sRGB">
             <feFlood flood-color="#000" flood-opacity=".251" result="flood"/>
             <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
             <feGaussianBlur in="composite1" result="blur" stdDeviation="2.1"/>
@@ -28,6 +28,6 @@
     <rect width="105" height="105" x="11.5" y="6.5" rx="13" ry="13" style="fill:#ccc;fill-opacity:1"/>
     <rect width="100.324" height="100.324" x="13.838" y="8.838" rx="12" ry="12" style="fill:#262631;fill-opacity:1;stroke-width:.955467"/>
     <path d="m34.768 30.653-6.866 6.867 19.416 19.416-19.416 19.417 6.866 6.867 26.284-26.284z" style="color:#000;fill:#9dd1dd;fill-opacity:1;stroke-width:.407808;-inkscape-stroke:none;filter:url(#c)"/>
-    <path d="M70.32 73.51v9.71h31.987v-9.71z" style="color:#000;fill:#9dd1dd;fill-opacity:1;stroke-width:.407808;-inkscape-stroke:none;filter:url(#g)"/>
+    <path d="M70.32 73.51v9.71h31.987v-9.71z" style="color:#000;fill:#9dd1dd;fill-opacity:1;stroke-width:.407808;-inkscape-stroke:none;filter:url(#d)"/>
     <path d="M25.838 8.838c-6.648 0-12 5.352-12 12v4c0-6.648 5.352-12 12-12h76.324c6.648 0 12 5.352 12 12v-4c0-6.648-5.352-12-12-12z" style="fill:#16161c;fill-opacity:1;stroke-width:.955467"/>
 </svg>

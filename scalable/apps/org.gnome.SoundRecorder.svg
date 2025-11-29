@@ -23,9 +23,9 @@
             <stop offset="1" style="stop-color:#845c32;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="e" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="matrix(.76095 0 0 .9425 15.3 11.404)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="h" x1="64" x2="64" y1="95.934" y2="76.852" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#c" id="g" x1="64.001" x2="64.001" y1="41.351" y2="72.584" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#d" id="i" cx="64" cy="69.233" r="17.16" fx="64" fy="69.233" gradientTransform="matrix(3.72957 0 0 1.1708 -174.693 -3.773)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="g" x1="64" x2="64" y1="95.934" y2="76.852" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="f" x1="64.001" x2="64.001" y1="41.351" y2="72.584" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#d" id="h" cx="64" cy="69.233" r="17.16" fx="64" fy="69.233" gradientTransform="matrix(3.72957 0 0 1.1708 -174.693 -3.773)" gradientUnits="userSpaceOnUse"/>
     </defs>
     <rect width="79.899" height="98.963" x="24.05" y="26.013" rx="7.362" ry="7.54" style="fill:url(#e);fill-opacity:1;stroke-width:.846874"/>
     <rect width="79.899" height="98.963" x="24.05" y="14.473" rx="7.54" ry="7.54" style="fill:#cba074;fill-opacity:1;stroke-width:.846874"/>
@@ -34,7 +34,7 @@
     <circle cx="91.533" cy="92.397" r="5.271" style="fill:#939393;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.282751;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
     <rect width="11.966" height="5.592" x="58.647" y="102.722" rx="1.62" ry="1.225" style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.22674;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
     <rect width="11.966" height="5.592" x="58.647" y="100.837" rx="1.62" ry="1.225" style="fill:#c32222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.22674;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
-    <path d="m96.286 18.282-2.65.001c-17.386.013-34.772.006-52.159.024-3.476.003-6.952.003-10.428.01-2.073.258-3.496 2.576-3.183 4.715-.002 16.517.004 33.035.008 49.552h72.254c-.002-16.918 0-33.837-.009-50.755-.156-2.014-1.935-3.635-3.818-3.548z" style="fill:url(#g);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.10956;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="m96.286 18.282-2.65.001c-17.386.013-34.772.006-52.159.024-3.476.003-6.952.003-10.428.01-2.073.258-3.496 2.576-3.183 4.715-.002 16.517.004 33.035.008 49.552h72.254c-.002-16.918 0-33.837-.009-50.755-.156-2.014-1.935-3.635-3.818-3.548z" style="fill:url(#f);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.10956;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
     <g transform="translate(-5.52 -7.327)scale(1.0846)">
         <ellipse cx="-44.196" cy="65.352" rx="3.698" ry="3.587" style="fill:#999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.313837;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" transform="scale(-1 1)"/>
         <path d="m34.638 59.092-2.346-6.589" style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#2b2b2b;stroke-width:.377001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
@@ -85,8 +85,8 @@
         <circle cx="54.699" cy="57.561" r="1.156" style="fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.410379;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
     </g>
     <rect width="34.423" height="20.382" x="46.788" y="76.087" rx="0" ry="0" style="fill:#1b1b1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.70736;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
-    <rect width="34.32" height="19.082" x="46.84" y="76.852" rx="0" ry="0" style="fill:url(#h);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.48023;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(3.68 4.852)scale(.9425)"/>
-    <rect width="32.347" height="17.985" x="47.827" y="77.286" rx="0" ry="0" style="fill:url(#i);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10764;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <rect width="34.32" height="19.082" x="46.84" y="76.852" rx="0" ry="0" style="fill:url(#g);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.48023;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(3.68 4.852)scale(.9425)"/>
+    <rect width="32.347" height="17.985" x="47.827" y="77.286" rx="0" ry="0" style="fill:url(#h);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.10764;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
     <text xml:space="preserve" x="60.609" y="92.452" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:6.28836px;font-family:&quot;Adwaita Mono&quot;;-inkscape-font-specification:&quot;Adwaita Mono Bold&quot;;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2f3334;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.589537;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"><tspan x="60.609" y="92.452" style="stroke-width:.589537">VU</tspan></text>
     <rect width="11.966" height="5.592" x="58.647" y="98.236" rx="1.62" ry="1.225" style="fill:#fe7070;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.22674;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
     <circle cx="91.533" cy="90.512" r="5.271" style="fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.282751;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>

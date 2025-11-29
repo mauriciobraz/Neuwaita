@@ -34,17 +34,17 @@
         </linearGradient>
         <linearGradient xlink:href="#a" id="m" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#a" id="n" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-68.994 -4.481)scale(1.83905)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="v" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-137.421 19.959)scale(1.6791)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="w" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-55.656 36.943)scale(.76249)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="B" x1="46.641" x2="11.5" y1="61.567" y2="27.25" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="C" x1="98.891" x2="100.195" y1="64.33" y2="44.739" gradientTransform="translate(-36.378 -26.71)scale(1.12352)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="x" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-10.722 55.77)scale(1.03274)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="y" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-28.76 8.856)scale(.76249)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="z" x1="100.195" x2="100.195" y1="35.913" y2="45.662" gradientTransform="translate(-96.027 44.32)scale(1.59716)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="o" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-137.421 19.959)scale(1.6791)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="p" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-55.656 36.943)scale(.76249)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="u" x1="46.641" x2="11.5" y1="61.567" y2="27.25" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="v" x1="98.891" x2="100.195" y1="64.33" y2="44.739" gradientTransform="translate(-36.378 -26.71)scale(1.12352)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="q" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-10.722 55.77)scale(1.03274)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="r" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(-28.76 8.856)scale(.76249)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="s" x1="100.195" x2="100.195" y1="35.913" y2="45.662" gradientTransform="translate(-96.027 44.32)scale(1.59716)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#c" id="j" x1="65.275" x2="65.275" y1="47.985" y2="92.05" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#d" id="k" x1="64.208" x2="64.208" y1="78.023" y2="92.05" gradientTransform="translate(-5.4 -6.58)scale(1.08437)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#e" id="h" x1="138.666" x2="403.2" y1="370.937" y2="370.937" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#a" id="A" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(16.169 16.162)scale(.67335)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="t" x1="100.195" x2="100.195" y1="35.913" y2="50.796" gradientTransform="translate(16.169 16.162)scale(.67335)" gradientUnits="userSpaceOnUse"/>
         <radialGradient xlink:href="#f" id="i" cx="64" cy="64" r="52.5" fx="64" fy="64" gradientTransform="matrix(1 0 0 .9 0 6.4)" gradientUnits="userSpaceOnUse"/>
         <radialGradient xlink:href="#g" id="l" cx="64" cy="70" r="15.959" fx="64" fy="70" gradientTransform="matrix(1.45069 0 0 1.4098 -28.844 -29.361)" gradientUnits="userSpaceOnUse"/>
     </defs>
@@ -60,16 +60,16 @@
     <ellipse cx="64" cy="69.325" rx="14.362" ry="13.958" style="opacity:1;fill:url(#l);fill-opacity:1;stroke-width:1.13107;stroke-linecap:square;stroke-linejoin:round"/>
     <circle cx="102.195" cy="43.355" r="7.441" style="opacity:1;fill:url(#m);fill-opacity:1;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"/>
     <path d="M115.27 61.564a13.685 13.685 0 0 0-13.684 13.686 13.685 13.685 0 0 0 13.684 13.686 14 14 0 0 0 1.23-.088V61.623a14 14 0 0 0-1.23-.059" style="opacity:1;fill:url(#n);fill-opacity:1;stroke-width:3.67809;stroke-linecap:square;stroke-linejoin:round"/>
-    <circle cx="30.816" cy="92.755" r="12.495" style="opacity:1;fill:url(#v);fill-opacity:1;stroke-width:3.35818;stroke-linecap:square;stroke-linejoin:round"/>
-    <circle cx="20.741" cy="70" r="5.674" style="opacity:1;fill:url(#w);fill-opacity:1;stroke-width:1.52497;stroke-linecap:square;stroke-linejoin:round"/>
-    <circle cx="92.754" cy="100.545" r="7.685" style="opacity:1;fill:url(#x);fill-opacity:1;stroke-width:2.06547;stroke-linecap:square;stroke-linejoin:round"/>
-    <circle cx="47.638" cy="41.913" r="5.674" style="opacity:1;fill:url(#y);fill-opacity:1;stroke-width:1.52497;stroke-linecap:square;stroke-linejoin:round"/>
-    <path d="M64 101.68a11.885 11.885 0 0 0-11.629 9.57h23.285A11.885 11.885 0 0 0 64 101.68" style="opacity:1;fill:url(#z);fill-opacity:1;stroke-width:3.19431;stroke-linecap:square;stroke-linejoin:round"/>
+    <circle cx="30.816" cy="92.755" r="12.495" style="opacity:1;fill:url(#o);fill-opacity:1;stroke-width:3.35818;stroke-linecap:square;stroke-linejoin:round"/>
+    <circle cx="20.741" cy="70" r="5.674" style="opacity:1;fill:url(#p);fill-opacity:1;stroke-width:1.52497;stroke-linecap:square;stroke-linejoin:round"/>
+    <circle cx="92.754" cy="100.545" r="7.685" style="opacity:1;fill:url(#q);fill-opacity:1;stroke-width:2.06547;stroke-linecap:square;stroke-linejoin:round"/>
+    <circle cx="47.638" cy="41.913" r="5.674" style="opacity:1;fill:url(#r);fill-opacity:1;stroke-width:1.52497;stroke-linecap:square;stroke-linejoin:round"/>
+    <path d="M64 101.68a11.885 11.885 0 0 0-11.629 9.57h23.285A11.885 11.885 0 0 0 64 101.68" style="opacity:1;fill:url(#s);fill-opacity:1;stroke-width:3.19431;stroke-linecap:square;stroke-linejoin:round"/>
     <path d="M81.693 83.732A22.69 22.05 0 0 1 64 92.051a22.69 22.05 0 0 1-16.8-7.274v15.776h34.493z" style="fill:url(#i);fill-opacity:1;stroke-width:.0919121"/>
-    <circle cx="83.635" cy="45.355" r="5.011" style="opacity:1;fill:url(#A);fill-opacity:1;stroke-width:1.34669;stroke-linecap:square;stroke-linejoin:round"/>
+    <circle cx="83.635" cy="45.355" r="5.011" style="opacity:1;fill:url(#t);fill-opacity:1;stroke-width:1.34669;stroke-linecap:square;stroke-linejoin:round"/>
     <path d="m48.25 16.75-9.607 10.5H22c-5.775 0-10.5 4.725-10.5 10.5v2c0-5.775 4.725-10.5 10.5-10.5h16.643l9.607-10.5h20.254a8.4 8.4 0 0 1 1.203-2zm36.305 5.252a8.4 8.4 0 0 1-.211 1.768l5.013 5.48H106c5.775 0 10.5 4.725 10.5 10.5v-2c0-5.775-4.725-10.5-10.5-10.5H89.357z" style="fill:#fff6d1;fill-opacity:1;stroke-width:.0919121"/>
-    <path d="M22 27.25c-5.775 0-10.5 4.725-10.5 10.5v9.78a14.87 14.87 0 0 0 9.24 3.257 14.874 14.874 0 0 0 14.875-14.873 14.87 14.87 0 0 0-2.789-8.664z" style="fill:url(#B);fill-opacity:1;stroke-width:.0919121"/>
-    <path d="M69.707 16.75A8.36 8.36 0 0 0 67.832 22a8.36 8.36 0 0 0 8.361 8.361 8.36 8.36 0 0 0 8.362-8.359V22l-4.805-5.25z" style="opacity:1;fill:url(#C);fill-opacity:1;stroke-width:2.24704;stroke-linecap:square;stroke-linejoin:round"/>
+    <path d="M22 27.25c-5.775 0-10.5 4.725-10.5 10.5v9.78a14.87 14.87 0 0 0 9.24 3.257 14.874 14.874 0 0 0 14.875-14.873 14.87 14.87 0 0 0-2.789-8.664z" style="fill:url(#u);fill-opacity:1;stroke-width:.0919121"/>
+    <path d="M69.707 16.75A8.36 8.36 0 0 0 67.832 22a8.36 8.36 0 0 0 8.361 8.361 8.36 8.36 0 0 0 8.362-8.359V22l-4.805-5.25z" style="opacity:1;fill:url(#v);fill-opacity:1;stroke-width:2.24704;stroke-linecap:square;stroke-linejoin:round"/>
     <path d="M69.707 16.75a8.4 8.4 0 0 0-1.191 2H79.75l4.594 5.02a8.4 8.4 0 0 0 .21-1.768V22l-4.804-5.25z" style="opacity:1;fill:#ffe680;fill-opacity:1;stroke-width:2.24704;stroke-linecap:square;stroke-linejoin:round"/>
     <path d="M22 27.25c-5.775 0-10.5 4.725-10.5 10.5v2c0-5.775 4.725-10.5 10.5-10.5h12.033a15 15 0 0 0-1.207-2z" style="fill:#ffe680;fill-opacity:1;stroke-width:.0919121"/>
     <path d="M64 55.367a14.362 13.958 0 0 0-14.361 13.957 14.362 13.958 0 0 0 .072 1A14.362 13.958 0 0 1 64 57.367a14.362 13.958 0 0 1 14.305 12.738 14.362 13.958 0 0 0 .056-.78A14.362 13.958 0 0 0 64 55.366" style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke-width:1.13107;stroke-linecap:square;stroke-linejoin:round"/>

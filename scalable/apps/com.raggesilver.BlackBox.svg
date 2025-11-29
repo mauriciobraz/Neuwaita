@@ -13,8 +13,8 @@
             <stop offset="1" style="stop-color:gray;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="c" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="translate(0 2)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#b" id="g" cx="65.069" cy="104.72" r="50.162" fx="65.069" fy="104.72" gradientTransform="matrix(1.92686 0 0 2.04661 -60.31 -104.16)" gradientUnits="userSpaceOnUse"/>
-        <filter id="h" width="1.245" height="1.206" x="-.123" y="-.062" style="color-interpolation-filters:sRGB">
+        <radialGradient xlink:href="#b" id="d" cx="65.069" cy="104.72" r="50.162" fx="65.069" fy="104.72" gradientTransform="matrix(1.92686 0 0 2.04661 -60.31 -104.16)" gradientUnits="userSpaceOnUse"/>
+        <filter id="e" width="1.245" height="1.206" x="-.123" y="-.062" style="color-interpolation-filters:sRGB">
             <feFlood flood-color="#000" flood-opacity=".251" result="flood"/>
             <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
             <feGaussianBlur in="composite1" result="blur" stdDeviation="1.3"/>
@@ -25,7 +25,7 @@
     <g transform="translate(0 -1)">
         <rect width="105" height="105" x="11.5" y="17.5" rx="13" ry="13" style="fill:url(#c);fill-opacity:1"/>
         <rect width="105" height="105" x="11.5" y="7.5" rx="13" ry="13" style="fill:#ccc;fill-opacity:1"/>
-        <rect width="100.324" height="100.324" x="13.838" y="9.838" rx="12" ry="12" style="fill:url(#g);fill-opacity:1;stroke-width:.955467"/>
-        <text xml:space="preserve" x="30.833" y="78.555" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:53.2426px;font-family:Cantarell;-inkscape-font-specification:&quot;Cantarell Bold&quot;;fill:#ccc;stroke-width:27.9208;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#h)"><tspan x="30.833" y="78.555" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:&quot;Cantarell Bold&quot;;stroke-width:27.9208">$</tspan></text>
+        <rect width="100.324" height="100.324" x="13.838" y="9.838" rx="12" ry="12" style="fill:url(#d);fill-opacity:1;stroke-width:.955467"/>
+        <text xml:space="preserve" x="30.833" y="78.555" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:53.2426px;font-family:Cantarell;-inkscape-font-specification:&quot;Cantarell Bold&quot;;fill:#ccc;stroke-width:27.9208;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#e)"><tspan x="30.833" y="78.555" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:&quot;Cantarell Bold&quot;;stroke-width:27.9208">$</tspan></text>
     </g>
 </svg>

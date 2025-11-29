@@ -13,10 +13,10 @@
             <stop offset="1" style="stop-color:#999;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="c" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="g" x1="64" x2="64" y1="112.5" y2="7.5" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="d" x1="64" x2="64" y1="112.5" y2="7.5" gradientUnits="userSpaceOnUse"/>
     </defs>
     <rect width="105" height="105" x="11.5" y="15.5" rx="13" ry="13" style="fill:url(#c);fill-opacity:1"/>
-    <rect width="105" height="105" x="11.5" y="7.5" rx="13" ry="13" style="fill:url(#g);fill-opacity:1"/>
+    <rect width="105" height="105" x="11.5" y="7.5" rx="13" ry="13" style="fill:url(#d);fill-opacity:1"/>
     <rect width="100.755" height="100.755" x="13.622" y="9.622" rx="12" ry="12" style="fill:#e6e6e6;fill-opacity:1;stroke-width:.959575"/>
     <ellipse cx="54.072" cy="84.769" rx="23.24" ry="22.596" style="fill:#999;fill-opacity:1;stroke-width:.743767"/>
     <ellipse cx="54.072" cy="78.769" rx="23.24" ry="22.596" style="fill:#23329c;fill-opacity:1;stroke-width:.743767"/>

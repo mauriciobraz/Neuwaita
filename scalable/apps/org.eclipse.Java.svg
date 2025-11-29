@@ -36,16 +36,16 @@
                 <stop offset=".872" style="stop-color:#2c2255"/>
             </linearGradient>
             <path fill="url(#f)" d="M164.653 376.089a33.3 33.3 0 0 0-1.012-5.896h-64.51a33.3 33.3 0 0 0-1.013 5.896z" style="fill:url(#f)"/>
-            <linearGradient id="j" x1="502.386" x2="502.386" y1="-40.075" y2="-113.71" gradientTransform="translate(-371 474.5)" gradientUnits="userSpaceOnUse">
+            <linearGradient id="g" x1="502.386" x2="502.386" y1="-40.075" y2="-113.71" gradientTransform="translate(-371 474.5)" gradientUnits="userSpaceOnUse">
                 <stop offset=".303" style="stop-color:#473788"/>
                 <stop offset=".872" style="stop-color:#2c2255"/>
             </linearGradient>
-            <path fill="url(#j)" d="M164.653 381.565H98.119a33 33 0 0 0 1.012 5.896h64.511a33.3 33.3 0 0 0 1.011-5.896" style="fill:url(#j)"/>
-            <linearGradient id="k" x1="502.386" x2="502.386" y1="-40.078" y2="-113.707" gradientTransform="translate(-371 474.5)" gradientUnits="userSpaceOnUse">
+            <path fill="url(#g)" d="M164.653 381.565H98.119a33 33 0 0 0 1.012 5.896h64.511a33.3 33.3 0 0 0 1.011-5.896" style="fill:url(#g)"/>
+            <linearGradient id="h" x1="502.386" x2="502.386" y1="-40.078" y2="-113.707" gradientTransform="translate(-371 474.5)" gradientUnits="userSpaceOnUse">
                 <stop offset=".303" style="stop-color:#473788"/>
                 <stop offset=".863" style="stop-color:#2c2255"/>
             </linearGradient>
-            <path fill="url(#k)" d="M131.386 412.217c13.397 0 24.945-7.893 30.263-19.281h-60.526c5.318 11.388 16.866 19.281 30.263 19.281" style="fill:url(#k)"/>
+            <path fill="url(#h)" d="M131.386 412.217c13.397 0 24.945-7.893 30.263-19.281h-60.526c5.318 11.388 16.866 19.281 30.263 19.281" style="fill:url(#h)"/>
         </g>
         <path fill="#fff" d="M37.855 62.186h71.004q.057-1.066.058-2.148c0-.78-.028-1.551-.072-2.322H29.139a41 41 0 0 0-.072 2.322q0 1.081.058 2.148zm6.317-13.748H30.665c-.444 1.455-.73 2.948-1.006 4.47h78.478a40 40 0 0 0-1.074-4.47m-4.057 18.558H29.658c.268 1.52.572 3.012 1.009 4.47h76.658a40 40 0 0 0 1.056-4.47z"/>
     </g>

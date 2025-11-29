@@ -22,14 +22,14 @@
             <stop offset="1" style="stop-color:#999;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="e" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="h" x1="64" x2="64" y1="112.5" y2="7.5" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#c" id="j" x1="-126.378" x2="-25.622" y1="41.108" y2="41.108" gradientTransform="translate(140)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#d" id="i" cx="64" cy="60" r="50.378" fx="64" fy="60" gradientTransform="matrix(1.07909 0 0 1.49887 -5.062 -29.932)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="f" x1="64" x2="64" y1="112.5" y2="7.5" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="h" x1="-126.378" x2="-25.622" y1="41.108" y2="41.108" gradientTransform="translate(140)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#d" id="g" cx="64" cy="60" r="50.378" fx="64" fy="60" gradientTransform="matrix(1.07909 0 0 1.49887 -5.062 -29.932)" gradientUnits="userSpaceOnUse"/>
     </defs>
     <rect width="105" height="105" x="11.5" y="15.5" rx="13" ry="13" style="fill:url(#e);fill-opacity:1"/>
-    <rect width="105" height="105" x="11.5" y="7.5" rx="13" ry="13" style="fill:url(#h);fill-opacity:1"/>
-    <rect width="100.755" height="100.755" x="13.622" y="9.622" rx="12" ry="12" style="fill:url(#i);fill-opacity:1;stroke-width:.959575"/>
-    <path d="M25.623 9.623c-6.648 0-12 5.352-12 12v.594h100.754v-.594c0-6.648-5.352-12-12-12zm-12 25.188v12.595h100.754V34.811zm0 25.189v12.594h100.754V60zm0 25.19v12.593h100.754V85.19z" style="fill:url(#j);fill-opacity:1;stroke-width:2.06468"/>
+    <rect width="105" height="105" x="11.5" y="7.5" rx="13" ry="13" style="fill:url(#f);fill-opacity:1"/>
+    <rect width="100.755" height="100.755" x="13.622" y="9.622" rx="12" ry="12" style="fill:url(#g);fill-opacity:1;stroke-width:.959575"/>
+    <path d="M25.623 9.623c-6.648 0-12 5.352-12 12v.594h100.754v-.594c0-6.648-5.352-12-12-12zm-12 25.188v12.595h100.754V34.811zm0 25.189v12.594h100.754V60zm0 25.19v12.593h100.754V85.19z" style="fill:url(#h);fill-opacity:1;stroke-width:2.06468"/>
     <path d="M49.798 34.811v62.972h33.06V85.19h5.51V72.594h-5.51V60h5.51V47.406h-5.51V34.81Zm11.02 12.595h16.53V60h-16.53Zm0 25.188h16.53V85.19h-16.53Z" style="fill:#252525;fill-opacity:1;stroke-width:.787152"/>
     <path fill="none" d="M13.622 22.217h100.755v12.594H13.622zm0 25.189h100.755V60H13.622zm0 25.188h100.755v12.594H13.622zm.001 25.189v.594c0 6.648 5.352 12 12 12h76.754c6.648 0 12-5.352 12-12v-.594z" style="fill:#f52b2b;fill-opacity:0;stroke-width:2.06468"/>
     <path d="M46.011 27.237V90.21h33.06V77.615h5.51V65.021h-5.51V52.426h5.51V39.832h-5.51V27.237Zm11.02 12.595h16.53v12.594h-16.53Zm0 25.189h16.53v12.594h-16.53Z" style="fill:#e96262;fill-opacity:1;stroke-width:.787152"/>

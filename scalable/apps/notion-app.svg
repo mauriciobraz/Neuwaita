@@ -4,7 +4,7 @@
             <stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
             <stop offset="1" style="stop-color:#ccc;stop-opacity:1"/>
         </linearGradient>
-        <linearGradient id="f">
+        <linearGradient id="d">
             <stop offset="0" style="stop-color:#3b3b3b;stop-opacity:1"/>
             <stop offset="1" style="stop-color:#222;stop-opacity:1"/>
         </linearGradient>
@@ -20,17 +20,17 @@
             <stop offset=".95" style="stop-color:#b3b3b3;stop-opacity:1"/>
             <stop offset="1" style="stop-color:#999;stop-opacity:1"/>
         </linearGradient>
-        <linearGradient xlink:href="#a" id="h" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="i" x1="64" x2="64" y1="7.5" y2="112.5" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#c" id="k" x1="64" x2="64" y1="15.63" y2="102.293" gradientTransform="translate(3.125 2.978)scale(.95117)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient xlink:href="#f" id="j" cx="64" cy="110.841" r="50.841" fx="64" fy="110.841" gradientTransform="matrix(1.79328 0 0 1.80828 -50.77 -89.59)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="e" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="f" x1="64" x2="64" y1="7.5" y2="112.5" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="h" x1="64" x2="64" y1="15.63" y2="102.293" gradientTransform="translate(3.125 2.978)scale(.95117)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#d" id="g" cx="64" cy="110.841" r="50.841" fx="64" fy="110.841" gradientTransform="matrix(1.79328 0 0 1.80828 -50.77 -89.59)" gradientUnits="userSpaceOnUse"/>
     </defs>
     <g transform="matrix(.95238 0 0 1 3.048 0)">
-        <rect width="105" height="105" x="11.5" y="15.5" rx="8" ry="8" style="fill:url(#h);fill-opacity:1;stroke-width:.999996"/>
-        <rect width="105" height="105" x="11.5" y="7.5" rx="8" ry="8" style="fill:url(#i);fill-opacity:1;stroke-width:.999996"/>
-        <rect width="101.682" height="101.682" x="13.159" y="9.159" rx="7.747" ry="7.747" style="fill:url(#j);fill-opacity:1;stroke-width:.968399"/>
+        <rect width="105" height="105" x="11.5" y="15.5" rx="8" ry="8" style="fill:url(#e);fill-opacity:1;stroke-width:.999996"/>
+        <rect width="105" height="105" x="11.5" y="7.5" rx="8" ry="8" style="fill:url(#f);fill-opacity:1;stroke-width:.999996"/>
+        <rect width="101.682" height="101.682" x="13.159" y="9.159" rx="7.747" ry="7.747" style="fill:url(#g);fill-opacity:1;stroke-width:.968399"/>
         <rect width="84.407" height="84.407" x="21.796" y="19.748" rx="6.431" ry="6.431" style="fill:#1a1a1a;fill-opacity:1;stroke-width:.803878"/>
-        <rect width="84.407" height="84.407" x="21.796" y="17.845" rx="6.431" ry="6.431" style="fill:url(#k);fill-opacity:1;stroke-width:.803878"/>
+        <rect width="84.407" height="84.407" x="21.796" y="17.845" rx="6.431" ry="6.431" style="fill:url(#h);fill-opacity:1;stroke-width:.803878"/>
         <rect width="80.456" height="80.456" x="23.772" y="19.821" rx="6.13" ry="6.13" style="fill:#e6e6e6;fill-opacity:1;stroke-width:.766252"/>
         <path d="M92.087 31.367c.444 2.009 0 4.018-2.009 4.247l-3.34.663v49.105c-2.902 1.561-5.572 2.454-7.804 2.454-3.567 0-4.458-1.118-7.13-4.463L49.958 49.001v33.255l6.912 1.565s0 4.018-5.576 4.018l-15.373.892c-.448-.895 0-3.126 1.558-3.57l4.015-1.114v-43.97l-5.572-.451c-.447-2.01.666-4.91 3.789-5.136l16.494-1.11 22.731 34.817V37.395l-5.794-.666c-.448-2.46 1.335-4.248 3.562-4.466z" style="fill:#2d2d2d;fill-opacity:1;stroke-width:1.14804"/>
         <path d="m92.088 31.369-15.385.895c-2.227.218-4.01 2.004-3.563 4.464l.117.013c.478-1.447 1.845-2.418 3.446-2.575l15.385-.895c.027.122.039.244.059.366.144-.684.116-1.474-.06-2.268M56.203 33.38 39.71 34.49c-3.123.225-4.236 3.127-3.788 5.136l.022.002c.356-1.575 1.555-3.077 3.766-3.236l16.493-1.109 22.732 34.816v-1.902Zm-6.246 48.876v1.902l6.357 1.44c.548-.922.554-1.778.554-1.778zm-8.464 1.79L37.48 85.16c-1.558.444-2.007 2.675-1.56 3.57h.016c.244-.744.746-1.44 1.544-1.667l4.014-1.113z" style="fill:#1a1a1a;fill-opacity:1;stroke-width:1.14804"/>

@@ -25,17 +25,17 @@
             <stop offset="1" style="stop-color:#374254;stop-opacity:1"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="f" x1="11.5" x2="116.5" y1="120.5" y2="120.5" gradientTransform="matrix(.95043 0 0 .94977 3.172 7.018)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="j" x1="64" x2="64" y1="112.5" y2="7.039" gradientTransform="matrix(.95043 0 0 .94977 3.172 8.817)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#c" id="m" x1="63.15" x2="63.15" y1="60.593" y2="114.031" gradientTransform="matrix(.98618 0 0 .95635 .885 5.603)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#d" id="k" x1="64" x2="64" y1="112.538" y2="18.328" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#e" id="l" x1="54.853" x2="54.853" y1="15.94" y2="53.064" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="g" x1="64" x2="64" y1="112.5" y2="7.039" gradientTransform="matrix(.95043 0 0 .94977 3.172 8.817)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="j" x1="63.15" x2="63.15" y1="60.593" y2="114.031" gradientTransform="matrix(.98618 0 0 .95635 .885 5.603)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#d" id="h" x1="64" x2="64" y1="112.538" y2="18.328" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#e" id="i" x1="54.853" x2="54.853" y1="15.94" y2="53.064" gradientUnits="userSpaceOnUse"/>
     </defs>
     <path d="M14.102 80.958v32.908a7.584 7.584 0 0 0 7.604 7.598h84.588a7.584 7.584 0 0 0 7.604-7.598V80.958Z" style="fill:url(#f);fill-opacity:1;stroke-width:.9501"/>
-    <path d="M21.706 15.94a7.584 7.584 0 0 0-7.604 7.598v84.53a7.584 7.584 0 0 0 7.604 7.597h84.588a7.584 7.584 0 0 0 7.604-7.598V34.891L94.934 15.94H80.647v28.326a4.21 4.21 0 0 1-4.22 4.218H33.754a4.21 4.21 0 0 1-4.221-4.218V15.94Z" style="fill:url(#j);fill-opacity:1;stroke-width:.9501"/>
-    <path d="M23.73 18.328a7.22 7.22 0 0 0-7.238 7.233v80.483a7.22 7.22 0 0 0 7.238 7.234h80.54a7.22 7.22 0 0 0 7.238-7.234V36.441L93.382 18.328Z" style="fill:url(#k);fill-opacity:1;stroke-width:.904618"/>
-    <path d="M25.912 15.94v31.994a5.123 5.123 0 0 0 5.135 5.13h51.89a5.12 5.12 0 0 0 5.133-5.13V15.939z" style="fill:url(#l);fill-opacity:1;stroke-width:2.88842;stroke-linecap:round"/>
+    <path d="M21.706 15.94a7.584 7.584 0 0 0-7.604 7.598v84.53a7.584 7.584 0 0 0 7.604 7.597h84.588a7.584 7.584 0 0 0 7.604-7.598V34.891L94.934 15.94H80.647v28.326a4.21 4.21 0 0 1-4.22 4.218H33.754a4.21 4.21 0 0 1-4.221-4.218V15.94Z" style="fill:url(#g);fill-opacity:1;stroke-width:.9501"/>
+    <path d="M23.73 18.328a7.22 7.22 0 0 0-7.238 7.233v80.483a7.22 7.22 0 0 0 7.238 7.234h80.54a7.22 7.22 0 0 0 7.238-7.234V36.441L93.382 18.328Z" style="fill:url(#h);fill-opacity:1;stroke-width:.904618"/>
+    <path d="M25.912 15.94v31.994a5.123 5.123 0 0 0 5.135 5.13h51.89a5.12 5.12 0 0 0 5.133-5.13V15.939z" style="fill:url(#i);fill-opacity:1;stroke-width:2.88842;stroke-linecap:round"/>
     <path d="M29.455 18.328v26.836c0 2.383 2.029 4.302 4.548 4.302H79.98c2.52 0 4.548-1.919 4.548-4.302V18.328Z" style="fill:#4f5967;fill-opacity:1;stroke-width:2.49008;stroke-linecap:round"/>
-    <path d="M34.186 63.78c-2.538 0-4.583 1.983-4.583 4.445v45.966h68.794V68.225c0-2.462-2.045-4.444-4.583-4.444z" style="fill:url(#m);stroke-width:2.5404;stroke-linecap:round"/>
+    <path d="M34.186 63.78c-2.538 0-4.583 1.983-4.583 4.445v45.966h68.794V68.225c0-2.462-2.045-4.444-4.583-4.444z" style="fill:url(#j);stroke-width:2.5404;stroke-linecap:round"/>
     <rect width="30.071" height="33.526" x="54.853" y="15.94" rx="2.338" ry="2.224" style="fill:#ececec;fill-opacity:1;stroke-width:2.68495;stroke-linecap:round"/>
     <rect width="13.349" height="24.94" x="68.838" y="19.27" rx="2.154" ry="2.152" style="fill:#4f5967;fill-opacity:1;stroke-width:2.40813;stroke-linecap:round"/>
     <ellipse cx="24.017" cy="105.544" rx="3.584" ry="3.581" style="fill:#dbdee3;fill-opacity:1;stroke-width:2.37525;stroke-linecap:round"/>
